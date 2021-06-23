@@ -1,3 +1,2 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TsungPao&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TsungPao&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TsungPao&theme=github)
+![TsungPao's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsungPao&show_icons=true&theme=github)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsungPao&layout=compact)](https://github.com/TsungPao/github-readme-stats)
